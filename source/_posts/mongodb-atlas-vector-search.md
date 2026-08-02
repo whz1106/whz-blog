@@ -2,6 +2,7 @@
 title: MongoDB Atlas Vector Search 向量检索实战
 slug: mongodb-atlas-vector-search
 date: 2026-02-11 17:51:43
+description: 使用 OpenRouter Embedding 和 MongoDB Atlas Vector Search，实现语义相似度检索。
 categories:
   - MongoDB
 tags:

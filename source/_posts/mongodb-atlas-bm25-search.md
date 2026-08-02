@@ -2,6 +2,7 @@
 title: MongoDB Atlas Search BM25 全文检索实战：基于 jieba 分词的中文搜索方案
 slug: mongodb-atlas-bm25-search
 date: 2026-02-10 19:43:51
+description: 基于 jieba 应用层分词、Atlas whitespace analyzer 和 BM25，搭建中文全文检索方案。
 categories:
   - MongoDB
 tags:

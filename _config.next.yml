@@ -1,7 +1,7 @@
 # NexT theme configuration overrides.
 # Keep theme defaults in the npm package so upgrades remain safe.
 
-scheme: Muse
+scheme: Gemini
 darkmode: true
 
 menu:
@@ -16,8 +16,40 @@ social:
   GitHub: https://github.com/whz1106/whz-blog || fab fa-github
 
 sidebar:
-  position: left
-  display: post
+  position: right
+  display: always
+
+toc:
+  enable: true
+  number: false
+  wrap: false
+  expand_all: false
+  max_depth: 4
+
+codeblock:
+  theme:
+    light: default
+    dark: stackoverflow-dark
+  copy_button:
+    enable: true
+    style: flat
+  language: true
+
+back2top:
+  enable: true
+  sidebar: false
+  scrollpercent: true
+
+reading_progress:
+  enable: true
+  start_at: left
+  position: top
+  color: "#37c6c0"
+  height: 3px
+
+text_align:
+  desktop: start
+  mobile: start
 
 avatar:
   rounded: true

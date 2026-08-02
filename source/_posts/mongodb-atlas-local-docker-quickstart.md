@@ -2,6 +2,7 @@
 title: Docker 部署 MongoDB Atlas 到服务端
 slug: mongodb-atlas-local-docker-quickstart
 date: 2026-02-09 17:03:07
+description: 使用 Docker 在服务端部署 MongoDB Atlas Local，并配置适合长期运行的 Atlas Search 本地环境。
 categories:
   - MongoDB
 tags:
