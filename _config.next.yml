@@ -1,0 +1,29 @@
+# NexT theme configuration overrides.
+# Keep theme defaults in the npm package so upgrades remain safe.
+
+scheme: Muse
+darkmode: true
+
+menu:
+  home: / || fa fa-home
+  archives: /archives/ || fa fa-archive
+  categories: /categories/ || fa fa-folder-open
+  tags: /tags/ || fa fa-tags
+  about: /about/ || fa fa-user
+  rss: /feed.xml || fa fa-rss
+
+social:
+  GitHub: https://github.com/whz1106/whz-blog || fab fa-github
+
+sidebar:
+  position: left
+  display: post
+
+avatar:
+  rounded: true
+  opacity: 1
+
+creative_commons:
+  license: by-nc-sa
+  sidebar: true
+  post: false
