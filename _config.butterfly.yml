@@ -1,0 +1,110 @@
+# Butterfly theme overrides. Keep the npm theme package untouched.
+
+nav:
+  logo: /images/avatar.gif
+  display_title: true
+  fixed: true
+
+menu:
+  首页: / || fas fa-home
+  归档: /archives/ || fas fa-archive
+  分类: /categories/ || fas fa-folder-open
+  标签: /tags/ || fas fa-tags
+  关于: /about/ || fas fa-user
+  RSS: /feed.xml || fas fa-rss
+
+social:
+  fab fa-github: https://github.com/whz1106/whz-blog || GitHub || '#24292e'
+
+avatar:
+  img: /images/avatar.gif
+  effect: false
+
+disable_top_img: true
+index_layout: 3
+index_post_content:
+  method: 2
+  length: 320
+
+subtitle:
+  enable: true
+  effect: false
+  source: false
+  sub: 技术、AI 基础设施与开发记录
+
+toc:
+  post: true
+  page: false
+  number: false
+  expand: false
+  scroll_percent: true
+
+code_blocks:
+  theme: light
+  macStyle: true
+  copy: true
+  language: true
+  shrink: false
+  fullpage: false
+
+aside:
+  enable: true
+  position: right
+  mobile: true
+  card_author:
+    enable: true
+    description: 技术、AI 基础设施与开发记录
+    button:
+      enable: true
+      icon: fab fa-github
+      text: GitHub
+      link: https://github.com/whz1106/whz-blog
+  card_announcement:
+    enable: true
+    content: 欢迎来到 WHZ Blog
+  card_recent_post:
+    enable: true
+    limit: 5
+  card_categories:
+    enable: true
+    limit: 8
+  card_tags:
+    enable: true
+    limit: 20
+  card_archives:
+    enable: true
+    type: monthly
+    limit: 8
+  card_post_series:
+    enable: false
+  card_webinfo:
+    enable: true
+    post_count: true
+    last_push_date: true
+
+post_copyright:
+  enable: true
+  decode: false
+  author_href: https://github.com/whz1106/whz-blog
+  license: CC BY-NC-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+related_post:
+  enable: true
+  limit: 3
+
+footer:
+  owner:
+    enable: true
+    since: 2026
+  copyright:
+    enable: true
+    version: true
+
+darkmode:
+  enable: true
+  button: true
+  autoChangeMode: false
+
+rightside_scroll_percent: true
+readmode: true

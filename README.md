@@ -1,6 +1,6 @@
 # WHZ Blog
 
-基于 Hexo + NexT 的个人技术博客。
+基于 Hexo + Butterfly 的个人技术博客。
 
 ## 本地开发
 
