@@ -1,7 +1,7 @@
 # Butterfly theme overrides. Keep the npm theme package untouched.
 
 nav:
-  logo: /images/avatar.gif
+  logo: /img/butterfly-icon.png
   display_title: true
   fixed: true
 
@@ -17,7 +17,7 @@ social:
   fab fa-github: https://github.com/whz1106/whz-blog || GitHub || '#24292e'
 
 avatar:
-  img: /images/avatar.gif
+  img: /img/butterfly-icon.png
   effect: false
 
 disable_top_img: true
