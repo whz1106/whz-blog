@@ -96,6 +96,14 @@ related_post:
   limit: 3
 
 footer:
+  nav:
+    - content:
+        - title: 联系与链接
+          item:
+            - title: 个人简历
+              url: https://resume-whz.vercel.app/
+            - title: GitHub
+              url: https://github.com/whz1106/whz-blog
   owner:
     enable: true
     since: 2026
