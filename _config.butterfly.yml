@@ -21,8 +21,8 @@ avatar:
   effect: false
 
 disable_top_img: false
-default_top_img: /images/whz-profile-v2.jpg
-index_img: /images/whz-profile-v2.jpg
+default_top_img: /images/beijing-skyline.jpg
+index_img: /images/beijing-skyline.jpg
 index_layout: 3
 index_post_content:
   method: 2
