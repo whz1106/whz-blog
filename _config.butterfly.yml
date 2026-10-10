@@ -14,7 +14,7 @@ menu:
   RSS: /feed.xml || fas fa-rss
 
 social:
-  fab fa-github: https://github.com/whz1106/whz-blog || GitHub || '#24292e'
+  fab fa-github: https://github.com/whz1106 || GitHub || '#24292e'
 
 avatar:
   img: /images/whz-profile-v2.jpg
@@ -60,7 +60,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: GitHub
-      link: https://github.com/whz1106/whz-blog
+      link: https://github.com/whz1106
   card_announcement:
     enable: true
     content: 欢迎来到 WHZ Blog
@@ -87,7 +87,7 @@ aside:
 post_copyright:
   enable: true
   decode: false
-  author_href: https://github.com/whz1106/whz-blog
+  author_href: https://github.com/whz1106
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -103,7 +103,7 @@ footer:
             - title: 个人简历
               url: https://resume-whz.vercel.app/
             - title: GitHub
-              url: https://github.com/whz1106/whz-blog
+              url: https://github.com/whz1106
   owner:
     enable: true
     since: 2026
